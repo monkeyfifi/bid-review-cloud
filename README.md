@@ -1,6 +1,7 @@
 # bid-review-cloud
 
-投标文件/标书审核技能 — 用于 Hermes Agent。
+投标文件/标书审核技能 — 用于智能体安装
+技能用到的skill包括不限于：tender-review-skill，word-format-checker
 
 ## 安装
 
